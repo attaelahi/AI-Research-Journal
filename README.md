@@ -31,7 +31,7 @@ JavaScript (ES6+ syntax)
 
 ## Installation and Setup
 
-Clone the repository: git clone https://github.com/attaelahi/ai-research-journal-website.git
+Clone the repository: git clone https://github.com/attaelahi/ai-research-journal.git
 
 Install dependencies: npm install or yarn install
 
